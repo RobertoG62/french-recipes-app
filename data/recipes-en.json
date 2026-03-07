@@ -1,0 +1,3485 @@
+{
+  "recipes": [
+    {
+      "id": "soupe-a-loignon",
+      "title": "Soupe à l'Oignon Gratinée",
+      "originalName": "Soupe à l'Oignon Gratinée",
+      "description": "Classic onion soup with melted Gruyère cheese over toasted bread — an iconic Parisian comfort dish.",
+      "category": "Soups",
+      "image": "images/soupe-a-loignon.jpg",
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "large onion, sliced into thin rings",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "name": "butter",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "dry white wine",
+          "quantity": "½",
+          "unit": "cup"
+        },
+        {
+          "name": "beef stock",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "name": "bay leaf",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "thyme sprigs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "baguette slices",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "name": "grated Gruyère cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat butter and olive oil in a deep pot over medium heat. Add the onion and mix.",
+        "Cook the onion over low heat for about 40 minutes until it turns a deep caramel brown, stirring occasionally. Add sugar after 20 minutes.",
+        "Raise the heat, add white wine and scrape the remains of caramelization from the bottom of the pot.",
+        "Add beef stock, bay leaves and thyme. Bring to a boil, reduce to a low heat and cook for 20 minutes. Season with salt and pepper.",
+        "Toast the baguette slices in the oven at 200 degrees until lightly browned.",
+        "Divide the soup into ovenproof bowls, place slices of toasted bread and generously sprinkle with Gruyère cheese.",
+        "Put in the grill until the cheese is bubbling and golden. Serve immediately."
+      ],
+      "tags": [
+        "soup",
+        "winter",
+        "cheese",
+        "classic",
+        "Paris"
+      ]
+    },
+    {
+      "id": "vichyssoise",
+      "title": "Vichyssoise",
+      "originalName": "Vichyssoise",
+      "description": "Creamy leek and potato soup served cold — an elegant dish for summer days.",
+      "category": "Soups",
+      "image": "images/vichyssoise.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "leek (white part only), sliced",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "potatoes, peeled and diced",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "chicken stock",
+          "quantity": "750",
+          "unit": "ml"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "chopped chives",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and white pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "crème fraîche for serving",
+          "quantity": "4",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Melt butter in a pot, add leek and fry over low heat for about 5 minutes until softened, without burning.",
+        "Add potatoes and chicken stock. Bring to a boil and cook for about 25 minutes until the potatoes are soft.",
+        "Grind in a blender until a completely smooth texture is obtained. Strain through a fine sieve to obtain a silky texture.",
+        "Add cream, season with salt and white pepper. Mix and put in the fridge for at least 4 hours.",
+        "Serve on cold plates, with a spoonful of crème fraîche and chopped chives on top."
+      ],
+      "tags": [
+        "cold soup",
+        "summer",
+        "ceramic",
+        "elegant",
+        "leek"
+      ]
+    },
+    {
+      "id": "coq-au-vin",
+      "title": "Coq au Vin",
+      "originalName": "Coq au Vin",
+      "description": "Chicken braised in red wine with mushrooms and pearl onions — a classic Burgundy dish.",
+      "category": "Main Courses",
+      "image": "images/coq-au-vin.jpg",
+      "prepTime": 30,
+      "cookTime": 120,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "chicken pieces (drumsticks and thighs)",
+          "quantity": "1.5",
+          "unit": "kg"
+        },
+        {
+          "name": "Burgundy red wine",
+          "quantity": "750",
+          "unit": "ml"
+        },
+        {
+          "name": "bacon, cut into cubes",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "pearl onions",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "champignon mushrooms, halved",
+          "quantity": "250",
+          "unit": "grams"
+        },
+        {
+          "name": "Carrot, cut into slices",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "chicken stock",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "Boca Grani (thyme, bay leaf, parsley)",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Soak the chicken pieces in red wine overnight in the refrigerator with herbs.",
+        "Remove the chicken from the wine, dry well and season. Save the wine.",
+        "Heat oil in a heavy pot, fry the bacon until crispy. Take out and keep.",
+        "Sear the chicken in a pot until browned on all sides. Take out and keep.",
+        "In the same pot, fry pearl onions and carrots for about 5 minutes. Add garlic and tomato paste and mix for a minute.",
+        "Return the chicken and bacon, add the reserved wine, stock and boca grani. Bring to a boil.",
+        "Cover and transfer to an oven heated to 160 degrees. Cook for an hour and a half.",
+        "In the last 20 minutes, fry mushrooms in butter until golden and add to the pot.",
+        "Removed from the oven. If the sauce is thin, transfer to the stove and thicken with mixed butter and flour.",
+        "Serve with mashed potatoes or rustic bread."
+      ],
+      "tags": [
+        "stew",
+        "red wine",
+        "Burgundy",
+        "rustic",
+        "festive"
+      ]
+    },
+    {
+      "id": "ratatouille",
+      "title": "Ratatouille",
+      "originalName": "Ratatouille",
+      "description": "Provençal vegetable stew with eggplant, zucchini, and bell peppers — summery and colorful.",
+      "category": "Main Courses",
+      "image": "images/ratatouille.jpg",
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Eggplant, cut into cubes",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Zucchini, cut into slices",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Red pepper, cut into cubes",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Yellow pepper, cut into cubes",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "A large onion, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "Ripe tomatoes, peeled and cut",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Fresh basil leaves",
+          "quantity": "1",
+          "unit": "handful"
+        },
+        {
+          "name": "fresh thyme",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat 2 tablespoons of olive oil in a wide pan. Fry eggplant until golden on all sides. Take out and keep.",
+        "Add more oil, fry zucchini and peppers until slightly softened. Take out and keep.",
+        "In the same pan, fry the onion for about 5 minutes. Add garlic and tomato paste, mix for a minute.",
+        "Add chopped tomatoes and thyme. Cook for about 10 minutes until a thick sauce is formed.",
+        "Return all the fried vegetables to the pot, mix gently. Cover and cook on low heat for 20 minutes.",
+        "Season with salt and pepper. Serve with torn fresh basil leaves on top."
+      ],
+      "tags": [
+        "vegetarian",
+        "Provence",
+        "vegetables",
+        "summer",
+        "healthy"
+      ]
+    },
+    {
+      "id": "quiche-lorraine",
+      "title": "Quiche Lorraine",
+      "originalName": "Quiche Lorraine",
+      "description": "Savory tart with cream, eggs, and bacon in crispy crust — a classic from Lorraine.",
+      "category": "Main Courses",
+      "image": "images/quiche-lorraine.jpg",
+      "prepTime": 25,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "ready-made crispy dough (or homemade)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Bacon or lardon",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "milk",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "grated Gruyère cheese",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "grated nutmeg",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 190 degrees. Pour the dough into a quiche pan (24 cm), prick the base with a fork.",
+        "Cover the dough with baking paper and weights (dry beans). Bake for 15 minutes, remove weights and bake for another 5 minutes.",
+        "Fry bacon in a dry pan until crispy and golden. Strain off the fat.",
+        "Beat eggs with cream, milk, nutmeg, salt and pepper.",
+        "Sprinkle bacon and Gruyère cheese on the base of the baked dough. Pour the egg mixture on top.",
+        "Bake for 35-40 minutes until the quiche is golden and firm in the center. Let rest 10 minutes before cutting."
+      ],
+      "tags": [
+        "Lorraine",
+        "dough",
+        "breakfast",
+        "brunch",
+        "cheese"
+      ]
+    },
+    {
+      "id": "croissant",
+      "title": "Croissant",
+      "originalName": "Croissant",
+      "description": "Buttery layered pastry in a crescent shape — the ultimate French breakfast.",
+      "category": "Pastries & Breads",
+      "image": "images/croissant.jpg",
+      "prepTime": 60,
+      "cookTime": 18,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "10",
+          "unit": "grams"
+        },
+        {
+          "name": "dry yeast",
+          "quantity": "7",
+          "unit": "grams"
+        },
+        {
+          "name": "lukewarm milk",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "Butter for the dough",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "Cold butter for layering (82% fat)",
+          "quantity": "280",
+          "unit": "grams"
+        },
+        {
+          "name": "egg + teaspoon of milk (for spreading)",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Mix flour, sugar, salt and yeast. Add lukewarm milk and 30 grams of butter. Knead for 8 minutes until a smooth dough.",
+        "Wrap in cling film and put in the fridge overnight (8-12 hours).",
+        "Form the 280 grams of butter into a flat square (15x15 cm) between two layers of baking paper. Return to the refrigerator.",
+        "Roll the dough into a rectangle, place the square of butter in the center and fold the dough around it.",
+        "Go down to a long rectangle, make a triple fold (into three). Wrap and refrigerate for 30 minutes. Repeat the process two more times.",
+        "Roll out the dough to a thickness of 4 mm. Cut long triangles (base 10 cm, height 20 cm).",
+        "Roll each triangle from the base to the edge. Shape into a crescent shape and place on a lined baking sheet.",
+        "Let rise at room temperature for about two hours until doubled in size. Apply egg mixture.",
+        "Bake in an oven heated to 200 degrees for about 15-18 minutes until golden and crispy."
+      ],
+      "tags": [
+        "pastry",
+        "yeast",
+        "butter",
+        "breakfast",
+        "classic"
+      ]
+    },
+    {
+      "id": "madeleine",
+      "title": "Madeleine",
+      "originalName": "Madeleine",
+      "description": "Small shell-shaped sponge cakes with lemon and vanilla — delicate and buttery.",
+      "category": "Pastries & Breads",
+      "image": "images/madeleine.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 24,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "120",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "melted and cooled butter",
+          "quantity": "125",
+          "unit": "grams"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "lemon zest",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "A pinch of salt",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Beat eggs and sugar well for about 5 minutes until the mixture is light and fluffy.",
+        "Add lemon zest, lemon juice and vanilla extract.",
+        "Sift flour, baking powder and salt. Gently fold into the egg mixture.",
+        "Add melted butter in a thin stream while gently folding. Cover and refrigerate for at least an hour.",
+        "Heat the oven to 200 degrees. Place and flour a madeleine mold.",
+        "Fill each cavity up to ¾. Bake for 10-12 minutes until springy in the center (the famous boss) and the edges are golden.",
+        "Remove from the mold immediately, cool on a wire rack. Excellent with powdered sugar on top."
+      ],
+      "tags": [
+        "Cookies",
+        "lemon",
+        "butter",
+        "Frost",
+        "classic"
+      ]
+    },
+    {
+      "id": "creme-brulee",
+      "title": "Crème Brûlée",
+      "originalName": "Crème Brûlée",
+      "description": "Vanilla custard topped with caramelized sugar crust — an iconic French dessert.",
+      "category": "Desserts",
+      "image": "images/creme-brulee.jpg",
+      "prepTime": 15,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Sweet cream (35% fat)",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "6",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "vanilla pod (or 2 teaspoons of extract)",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Sugar for caramelization",
+          "quantity": "6",
+          "unit": "spoons"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 150 degrees. Heat the cream with the vanilla seeds and the pod until it first boils, remove from the heat.",
+        "Beat egg yolks with sugar until the mixture is light. Don't beat it too much.",
+        "Pour the hot cream in a thin stream over the yolk mixture while stirring constantly. Sanno",
+        "Divide into ramekins (6 units). Place in a deep baking dish and fill hot water up to half the height of the ramekins.",
+        "Bake for 40-45 minutes until the cream is firm on the edges but still slightly wobbly in the center.",
+        "Cool and then refrigerate for at least 4 hours (preferably overnight).",
+        "Before serving, sprinkle a teaspoon of sugar on each ramekin and burn with a burner flame until a crispy caramel layer."
+      ],
+      "tags": [
+        "dessert",
+        "vanilla",
+        "cream",
+        "caramel",
+        "elegant"
+      ]
+    },
+    {
+      "id": "tarte-tatin",
+      "title": "Tarte Tatin",
+      "originalName": "Tarte Tatin",
+      "description": "Upside-down caramelized apple tart — a rustic French classic.",
+      "category": "Desserts",
+      "image": "images/tarte-tatin.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Puff pastry is ready",
+          "quantity": "1",
+          "unit": "Galilee"
+        },
+        {
+          "name": "Apples (Golden or Granny Smith)",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "cinnamon (optional)",
+          "quantity": "½",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 190 degrees. Peel apples, cut into quarters and remove the seeds.",
+        "In an ovenproof pan (26 cm), melt sugar over medium heat until an amber caramel is formed. Add butter and mix.",
+        "Arrange the apple quarters densely on the caramel, some standing up. Add lemon juice.",
+        "Cook on the stove for about 15 minutes until the apples begin to soften and the caramel deepens in color.",
+        "Cover the pan with a sheet of puff pastry, fold the edges inward. Poke a few holes.",
+        "Bake for 25-30 minutes until the dough is golden and puffy.",
+        "Remove from the oven, wait 5 minutes. Carefully turn over on a serving plate - the caramel will come out on top.",
+        "Serve warm with a scoop of vanilla ice cream or whipped cream."
+      ],
+      "tags": [
+        "tart",
+        "apples",
+        "caramel",
+        "baking",
+        "dessert"
+      ]
+    },
+    {
+      "id": "beurre-blanc",
+      "title": "Beurre Blanc",
+      "originalName": "Beurre Blanc",
+      "description": "Classic white butter sauce with shallots and white wine — perfect for fish.",
+      "category": "Sauces & Condiments",
+      "image": "images/beurre-blanc.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Onion (shallot), finely chopped",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "dry white wine",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "white wine vinegar",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Very cold butter, cut into cubes",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "salt and white pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "In a small saucepan, combine shallot, white wine and vinegar. Cook over medium heat until the liquid is reduced to about 2 tablespoons.",
+        "Reduce to very low heat. Start adding cubes of cold butter one by one, whisking constantly.",
+        "Each cube of butter must be melted before adding the next one. The sauce should be creamy — not separated.",
+        "When all the butter has been absorbed, strain the sauce, season with salt, white pepper and lemon juice.",
+        "Serve immediately over grilled fish, salmon or seafood. Do not reheat."
+      ],
+      "tags": [
+        "sauce",
+        "butter",
+        "Loire",
+        "fish",
+        "classic"
+      ]
+    },
+    {
+      "id": "vinaigrette-classique",
+      "title": "Vinaigrette Classique",
+      "originalName": "Vinaigrette Classique",
+      "description": "Classic French salad dressing with Dijon mustard and vinegar — simple and flavorful.",
+      "category": "Sauces & Condiments",
+      "image": "images/vinaigrette-classique.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Dijon mustard",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "red wine vinegar",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Extra virgin olive oil",
+          "quantity": "6",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Shallot, very finely chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "sea salt",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "coarsely ground black pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "honey (optional)",
+          "quantity": "½",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "In a small bowl, mix mustard, vinegar, salt and honey until the salt dissolves.",
+        "Add olive oil in a thin stream while constantly whisking until the sauce emulsifies and becomes slightly thick.",
+        "Mix the chopped shallot and black pepper.",
+        "Taste and adjust seasoning. Can be kept in a closed jar in the refrigerator for up to a week. Shake before use."
+      ],
+      "tags": [
+        "sauce",
+        "salad",
+        "Dijon",
+        "mustard",
+        "basic"
+      ]
+    },
+    {
+      "id": "bouillabaisse",
+      "title": "Bouillabaisse",
+      "originalName": "Bouillabaisse",
+      "description": "Traditional Provençal fish stew with aromatic herbs and saffron — a Mediterranean coastal treasure.",
+      "category": "Soups",
+      "image": "images/bouillabaisse.jpg",
+      "prepTime": 30,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "Mixed fish fillet (barramundi, bream, salmon)",
+          "quantity": "800",
+          "unit": "grams"
+        },
+        {
+          "name": "Big shrimp",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "mussels (oysters)",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "Onion, chopped",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Tomatoes, peeled and cut",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Saffron capillaries",
+          "quantity": "1",
+          "unit": "A big pinch"
+        },
+        {
+          "name": "Fresh fennel, sliced",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "orange zest",
+          "quantity": "1",
+          "unit": "strip"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in a wide pot. Fry onions and fennel for about 5 minutes. Add garlic and stir for a minute.",
+        "Add tomatoes, tomato paste, orange peel and saffron. Cook for 5 minutes.",
+        "Add 1.5 liters of water, bring to a boil and cook for 20 minutes to create a rich base.",
+        "Add the large pieces of fish first. After 5 minutes add shrimp and mussels.",
+        "Cook another 5-8 minutes until the mussels open and the fish is ready. Remove unopened clams.",
+        "Season with salt and pepper. Serve in deep bowls with croutons and roi (garlic mayonnaise) on the side."
+      ],
+      "tags": [
+        "fish",
+        "seafood",
+        "Marseille",
+        "Provence",
+        "saffron"
+      ]
+    },
+    {
+      "id": "bisque-de-homard",
+      "title": "Bisque de Homard",
+      "originalName": "Bisque de Homard",
+      "description": "Creamy lobster bisque with cognac — a luxurious seafood soup.",
+      "category": "Soups",
+      "image": "images/bisque-de-homard.jpg",
+      "prepTime": 20,
+      "cookTime": 50,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Lobster or crab skeletons",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "Onion, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Carrot, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Celery, chopped",
+          "quantity": "1",
+          "unit": "stalk"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "cognac",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "dry white wine",
+          "quantity": "½",
+          "unit": "cup"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "fish stock",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "name": "salt, cayenne pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter in a heavy saucepan. Burn the lobster skeletons on high heat for about 5 minutes until they turn red.",
+        "Add onion, carrot and celery. Fry for 5 minutes. Add tomato paste and mix.",
+        "Add cognac (caution - may get excited). Add white wine and reduce by half.",
+        "Add fish stock, bring to a boil and cook for 30 minutes on low heat.",
+        "Grind in a blender (including the skeletons), filter through a fine sieve while pressing hard to extract all the flavor.",
+        "Return to the pot, add cream. Heat gently, season with salt and cayenne pepper. Serve with a dollop of cream."
+      ],
+      "tags": [
+        "soup",
+        "lobster",
+        "cream",
+        "luxurious",
+        "cognac"
+      ]
+    },
+    {
+      "id": "soupe-au-pistou",
+      "title": "Soupe au Pistou",
+      "originalName": "Soupe au Pistou",
+      "description": "Provençal vegetable soup with fresh basil pesto — vibrant and summery.",
+      "category": "Soups",
+      "image": "images/soupe-au-pistou.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "White beans (soaked in advance)",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "Zucchini, diced",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Green beans, chopped",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "Potatoes, cut into cubes",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Tomato, chopped",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "small pasta (shellfish)",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "fresh basil",
+          "quantity": "1",
+          "unit": "A big bundle"
+        },
+        {
+          "name": "garlic cloves",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "Grated Parmesan",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "Virgin olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "In a large pot, bring 2 liters of water to a boil. Add white beans and potatoes, cook for 15 minutes.",
+        "Add zucchini, green beans and tomatoes. Cook another 10 minutes.",
+        "Add pasta and cook until pasta is al dente (about 10 minutes).",
+        "Meanwhile, prepare pesto: grind basil, garlic, parmesan and olive oil in a food processor until smooth pesto.",
+        "Season the soup with salt and pepper. Serve in bowls with a heaping spoonful of pesto in the center."
+      ],
+      "tags": [
+        "vegetarian",
+        "Provence",
+        "vegetables",
+        "summer",
+        "basil"
+      ]
+    },
+    {
+      "id": "potage-parmentier",
+      "title": "Potage Parmentier",
+      "originalName": "Potage Parmentier",
+      "description": "Simple leek and potato soup — comforting and homey.",
+      "category": "Soups",
+      "image": "images/potage-parmentier.jpg",
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Potatoes, peeled and cut",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "Leek (white part), sliced",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "Chicken or vegetable stock",
+          "quantity": "800",
+          "unit": "ml"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "Chopped chives to serve",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter in a pot. Fry the leek over low heat for about 5 minutes until it softens.",
+        "Add potatoes and stock. Bring to a boil and cook for about 25 minutes until tender.",
+        "Grind in a stick blender until you get a smooth texture. Add cream.",
+        "Heat gently, season with salt and pepper. Serve with chopped chives and a drizzle of olive oil."
+      ],
+      "tags": [
+        "soup",
+        "potatoes",
+        "leek",
+        "winter",
+        "classic"
+      ]
+    },
+    {
+      "id": "boeuf-bourguignon",
+      "title": "Bœuf Bourguignon",
+      "originalName": "Bœuf Bourguignon",
+      "description": "Beef stew in red wine with vegetables and bacon — the ultimate French comfort food.",
+      "category": "Main Courses",
+      "image": "images/boeuf-bourguignon.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "Beef for stew (short ribs or brisket), cut into cubes",
+          "quantity": "1.2",
+          "unit": "kg"
+        },
+        {
+          "name": "Burgundy red wine",
+          "quantity": "750",
+          "unit": "ml"
+        },
+        {
+          "name": "bacon, cut into cubes",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "pearl onions",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "champignon mushrooms, halved",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "Carrot, cut into slices",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "beef stock",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "Boca Grani (thyme, bay leaf, parsley)",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "flour",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Soak the meat in red wine with chopped carrots and Bocca Grani overnight in the refrigerator.",
+        "Strain, keep the wine. Dry the meat well. Heat the oven to 160 degrees.",
+        "Fry bacon in a heavy pot until crispy. took out Sear the meat in portions until brown.",
+        "Fry pearl onions and carrots for 5 minutes. Add garlic and tomato paste, mix for a minute.",
+        "Sprinkle flour over the vegetables and mix. Add the reserved wine, stock and Boca Grani.",
+        "Return the meat and bacon. Bring to a boil, cover and transfer to the oven for 2.5 hours.",
+        "In the last 30 minutes, fry mushrooms in butter and add to the pot.",
+        "Serve with mashed potatoes or wide egg noodles."
+      ],
+      "tags": [
+        "stew",
+        "beef",
+        "red wine",
+        "Burgundy",
+        "festive"
+      ]
+    },
+    {
+      "id": "cassoulet",
+      "title": "Cassoulet",
+      "originalName": "Cassoulet",
+      "description": "Hearty white bean casserole with duck, sausage, and pork — a winter warmer from Languedoc.",
+      "category": "Main Courses",
+      "image": "images/cassoulet.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "Dry white beans (soaked for 12 hours)",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "Confit duck shanks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Toulouse sausages",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "Lamb meat (shoulder), cut into cubes",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "A large onion, chopped",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "crushed tomatoes",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "chicken stock",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "Boca Grani",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "bread crumbs",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Cook the beans soaked in water for about 45 minutes until softened but not falling apart. Sanno",
+        "Burn the lamb in a heavy pot. took out Fry sausages until golden, cut into slices.",
+        "Fry onion and garlic for 5 minutes. Add crushed tomatoes, stock and boca grani. Boil for 10 minutes.",
+        "In a deep casserole dish, arrange layers: beans, lamb, sausages, duck legs. Pour the sauce on top.",
+        "Sprinkle with breadcrumbs. Bake in the oven at 150 degrees for about 2.5 hours. Every half hour, break the resulting crust and press in.",
+        "Serve when the top is crispy and golden and the stew is bubbling."
+      ],
+      "tags": [
+        "stew",
+        "bean",
+        "duck",
+        "Toulouse",
+        "Languedoc",
+        "winter"
+      ]
+    },
+    {
+      "id": "escargots",
+      "title": "Escargots de Bourgogne",
+      "originalName": "Escargots de Bourgogne",
+      "description": "Burgundy snails with garlic herb butter — an iconic French appetizer.",
+      "category": "Main Courses",
+      "image": "images/escargots.jpg",
+      "prepTime": 20,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Canned snails (2 dozen)",
+          "quantity": "24",
+          "unit": ""
+        },
+        {
+          "name": "softened butter",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "Garlic cloves, finely crushed",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Fresh parsley, finely chopped",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Onion (shallot), finely chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "sea salt",
+          "quantity": "½",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Baguette to serve",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Make garlic butter: mix soft butter with garlic, parsley, shallot, salt and pepper until a uniform mixture.",
+        "Heat the oven to 200 degrees. Filter the snails and dry with a paper towel.",
+        "Place each snail in the cavity of a special snail mold (or ramekins). Cover each with a heaping spoonful of garlic butter.",
+        "Bake for 10-12 minutes until the butter bubbles and starts to turn golden.",
+        "Serve immediately with slices of baguette to soak up the glorious butter."
+      ],
+      "tags": [
+        "appetizer",
+        "garlic butter",
+        "Burgundy",
+        "bistro",
+        "classic"
+      ]
+    },
+    {
+      "id": "blanquette-de-veau",
+      "title": "Blanquette de Veau",
+      "originalName": "Blanquette de Veau",
+      "description": "Veal in creamy white sauce with mushrooms and pearl onions — a delicate and refined dish.",
+      "category": "Main Courses",
+      "image": "images/blanquette-de-veau.jpg",
+      "prepTime": 20,
+      "cookTime": 90,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Veal (shoulder), cut into cubes",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Carrot, cut into slices",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "pearl onions",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "Champagne mushrooms",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "150",
+          "unit": "ml"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Boca Grani",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "salt and white pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Place the veal cubes in a pot of cold water. Bring to a boil, whip the foam.",
+        "Add carrot, bocca grani, salt and white pepper. Cook on low heat for 75 minutes until the meat is tender.",
+        "Take out meat and carrots. Filter and save the stock.",
+        "In a clean pot, melt butter, add flour and mix for 2 minutes (white roux). Gradually add 600 ml stock.",
+        "Cook pearl onions and mushrooms in sauce for 10 minutes. Return meat and carrots.",
+        "Mix cream with egg yolks and lemon juice. Add to the pot off the heat while stirring (do not boil).",
+        "Serve immediately with white rice or egg noodles."
+      ],
+      "tags": [
+        "calf",
+        "white sauce",
+        "cream",
+        "comfort",
+        "classic"
+      ]
+    },
+    {
+      "id": "confit-de-canard",
+      "title": "Confit de Canard",
+      "originalName": "Confit de Canard",
+      "description": "Duck leg slow-cooked in its own fat until melt-in-your-mouth tender — a southwestern French delicacy.",
+      "category": "Main Courses",
+      "image": "images/confit-de-canard.jpg",
+      "prepTime": 15,
+      "cookTime": 180,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Duck shanks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "duck (or goose) fat",
+          "quantity": "800",
+          "unit": "grams"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "thyme sprigs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "bay leaves",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "coarsely ground black pepper",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "A day in advance: rub the duck legs with coarse salt, garlic, thyme and pepper. Cover and refrigerate 12-24 hours.",
+        "Wash the shins from salt, dry well. Heat the oven to 130 degrees.",
+        "Melt the duck fat in a saucepan. Dip the shanks completely in the fat.",
+        "Add bay leaves, cover tightly and transfer to the oven. Cook for 3 hours until the meat separates from the bone.",
+        "To serve: remove from the fat, sear in the fat in a pan over high heat until the skin is crispy and golden.",
+        "Serve with potatoes sautéed in duck fat and a green salad."
+      ],
+      "tags": [
+        "duck",
+        "Gascony",
+        "Conservation",
+        "crispy skin",
+        "traditional"
+      ]
+    },
+    {
+      "id": "steak-frites",
+      "title": "Steak Frites",
+      "originalName": "Steak Frites",
+      "description": "Grilled steak with French fries — a French bistro classic.",
+      "category": "Main Courses",
+      "image": "images/steak-frites.jpg",
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Steak entrecote (thickness 2.5 cm)",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "large potatoes",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Oil for deep frying",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "thyme sprigs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "Crystal salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Cut potatoes into sticks. Soak in water for 30 minutes, dry well.",
+        "Fry at 140 degrees for 6 minutes (first cooking). Take out and cool.",
+        "Heat a cast iron pan until smoking. Season steak with salt and pepper. Sear for 3 minutes on each side (medium-rare).",
+        "Add butter, garlic and thyme. Drizzle the bubbling butter over the steak for 30 seconds.",
+        "Transfer to a plate, cover and let rest for 5 minutes. Meanwhile, fry fries again at 190 degrees until golden and crispy.",
+        "Serve steak with fries and salt and pepper. On the side - Maradotel butter or Barnez sauce."
+      ],
+      "tags": [
+        "steak",
+        "bistro",
+        "Paris",
+        "potato chips",
+        "classic"
+      ]
+    },
+    {
+      "id": "moules-marinieres",
+      "title": "Moules Marinières",
+      "originalName": "Moules Marinières",
+      "description": "Mussels in white wine with shallots and parsley — a bistro favorite.",
+      "category": "Main Courses",
+      "image": "images/moules-marinieres.jpg",
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Mussels, cleaned",
+          "quantity": "2",
+          "unit": "kg"
+        },
+        {
+          "name": "Chopped shallots",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "dry white wine",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "Fresh parsley, chopped",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Clean the clams: Discard any open clams that do not close with a squeeze. Removed bristles.",
+        "In a wide pot, melt butter. Fry shallot and garlic for 2 minutes on medium heat.",
+        "Add white wine, bring to a boil. Add all the clams, cover immediately.",
+        "Cook for 4-5 minutes, shaking the pot occasionally, until all the oysters open.",
+        "Discard unopened oysters. Sprinkle with parsley and pepper. Serve in deep bowls with chips and bread."
+      ],
+      "tags": [
+        "seafood",
+        "Brittany",
+        "white wine",
+        "quick",
+        "bistro"
+      ]
+    },
+    {
+      "id": "gratin-dauphinois",
+      "title": "Gratin Dauphinois",
+      "originalName": "Gratin Dauphinois",
+      "description": "Creamy potato gratin from the Dauphiné region — rich and indulgent.",
+      "category": "Main Courses",
+      "image": "images/gratin-dauphinois.jpg",
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Potatoes, thinly sliced ​​(2 mm)",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "400",
+          "unit": "ml"
+        },
+        {
+          "name": "milk",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "butter (for greasing the pan)",
+          "quantity": "20",
+          "unit": "grams"
+        },
+        {
+          "name": "grated nutmeg",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 170 degrees. Put a baking tray in butter and rub with garlic.",
+        "Heat cream and milk with garlic, salt, pepper and nutmeg until the first boil.",
+        "Arrange overlapping layers of potatoes in the pan. Every few layers, pour a little cream mixture.",
+        "Pour the remaining cream on top until it covers the top layer.",
+        "Bake for 60 minutes until the top is golden and the potatoes are soft (test with a knife).",
+        "Let rest 10 minutes before serving. Perfect as a side dish to roast meat."
+      ],
+      "tags": [
+        "condiment",
+        "potatoes",
+        "cream",
+        "Dupina",
+        "Garten"
+      ]
+    },
+    {
+      "id": "salade-nicoise",
+      "title": "Salade Niçoise",
+      "originalName": "Salade Niçoise",
+      "description": "Tuna salad with eggs, olives, and vegetables from Nice — fresh and satisfying.",
+      "category": "Main Courses",
+      "image": "images/salade-nicoise.jpg",
+      "prepTime": 20,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Fresh tuna steak (or a can of quality tuna)",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "hard boiled eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Green beans, cooked al dente",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "Small potatoes, boiled",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Cherry tomatoes, halved",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "Nisoise olives (or kalamata)",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "anchovies",
+          "quantity": "8",
+          "unit": ""
+        },
+        {
+          "name": "small lettuce",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Virgin olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "If using fresh tuna: sear 2 minutes on each side on a high pan. Spread into slices.",
+        "Arrange lettuce leaves on a large serving platter.",
+        "Arrange in groups: sliced ​​potatoes, green beans, square eggs, tomatoes, olives and anchovies.",
+        "Place the tuna in the center.",
+        "Make a vinaigrette: mix olive oil, lemon juice, salt and pepper. Drizzle over the salad. Serve immediately."
+      ],
+      "tags": [
+        "salad",
+        "nice",
+        "tuna",
+        "Mediterranean",
+        "summer"
+      ]
+    },
+    {
+      "id": "croque-monsieur",
+      "title": "Croque-Monsieur",
+      "originalName": "Croque-Monsieur",
+      "description": "Grilled ham and cheese sandwich with béchamel — a Parisian café classic.",
+      "category": "Main Courses",
+      "image": "images/croque-monsieur.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Slices of brioche bread or pen de mi",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Pork slices (ham)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "grated Gruyère cheese",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "milk",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "nutmeg",
+          "quantity": "1",
+          "unit": "pinch"
+        },
+        {
+          "name": "Dijon mustard",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Prepare in a quick way: melt 15 grams of butter, add flour, mix for a minute. Add milk gradually until a thick sauce. Season with nutmeg.",
+        "Spread mustard on 2 slices of bread. Lay ham and cheese. Cover with the second slice.",
+        "Spread evenly on the top of each sandwich. Sprinkle grated Gruyere on top.",
+        "Bake in an oven heated to 200 degrees (or grill) for about 10 minutes until golden and bubbly.",
+        "Serve immediately with a green salad on the side."
+      ],
+      "tags": [
+        "sandwich",
+        "cheese",
+        "bistro",
+        "Paris",
+        "quick"
+      ]
+    },
+    {
+      "id": "pot-au-feu",
+      "title": "Pot-au-Feu",
+      "originalName": "Pot-au-Feu",
+      "description": "Traditional beef and vegetable stew — France's national dish.",
+      "category": "Main Courses",
+      "image": "images/pot-au-feu.jpg",
+      "prepTime": 20,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Beef (brisket or short ribs)",
+          "quantity": "1.5",
+          "unit": "kg"
+        },
+        {
+          "name": "brain bones (meru)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "A large carrot",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "leek",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "turnip",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "celery",
+          "quantity": "3",
+          "unit": "stems"
+        },
+        {
+          "name": "Onion, halved and burnt",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Boca Grani",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Black peppercorns",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Dijon mustard and pickle to serve",
+          "quantity": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Place meat and bones in a large pot of cold water. Bring to a slow boil, whip the foam thoroughly.",
+        "Add burnt onion, bocca grani, peppercorns and salt. Reduce to very low heat.",
+        "Cook for 2 hours. Add carrot, leek, turnip and celery. Cook for another hour.",
+        "Take out the meat, spread into thick slices. Arrange vegetables on the side.",
+        "Filter the broth. Serve in two stages: first the stock as a soup, then the meat and vegetables with mustard and pickles."
+      ],
+      "tags": [
+        "stew",
+        "beef",
+        "root vegetables",
+        "winter",
+        "traditional"
+      ]
+    },
+    {
+      "id": "crepe-complete",
+      "title": "Crêpe Complète",
+      "originalName": "Crêpe Complète",
+      "description": "Buckwheat crepe with ham, cheese, and egg — a Breton specialty.",
+      "category": "Main Courses",
+      "image": "images/crepe-complete.jpg",
+      "prepTime": 10,
+      "cookTime": 8,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "buckwheat flour",
+          "quantity": "250",
+          "unit": "grams"
+        },
+        {
+          "name": "water",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "egg (for batter)",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "salt",
+          "quantity": "½",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Pork slices",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "Grated Emmental cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs (for filling)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Make the batter: mix spelled flour, water, egg and salt until a smooth consistency. Bitter for an hour.",
+        "Heat a large flat pan (or carpier). Spread thin butter.",
+        "Pour a ladleful of batter and swirl to form a thin crepe. Cook for 2 minutes until the bottom is golden.",
+        "Place a slice of ham, sprinkle with cheese and break an egg in the center.",
+        "Cover for 2 minutes. Fold the edges inward to form a square with the egg in the center. Serve immediately."
+      ],
+      "tags": [
+        "crepe",
+        "Brittany",
+        "spelled",
+        "breakfast",
+        "quick"
+      ]
+    },
+    {
+      "id": "baguette",
+      "title": "Baguette Tradition",
+      "originalName": "Baguette Tradition",
+      "description": "Classic French white bread with crispy crust and airy crumb — the symbol of French bakery.",
+      "category": "Pastries & Breads",
+      "image": "images/baguette.jpg",
+      "prepTime": 30,
+      "cookTime": 25,
+      "servings": 3,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "Bread flour (T65 or strong)",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "lukewarm water",
+          "quantity": "350",
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": "10",
+          "unit": "grams"
+        },
+        {
+          "name": "dry yeast",
+          "quantity": "3",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Mix flour, water, salt and yeast. Knead for 10 minutes until the dough is flexible and smooth (the window test).",
+        "First rise: cover and rise for 2 hours at room temperature, folding every 45 minutes.",
+        "Divide into 3 equal parts. Form each part into a ball, cover and let rest for 20 minutes.",
+        "Form each ball into a long (55 cm) baguette shape by rolling and gently stretching.",
+        "Place on a floured cloth or baguette pan. Cover and let rise for 45 minutes.",
+        "Heat an oven to 250 degrees with a pan of water at the bottom (for steam). Score 5 diagonal slits in each baguette.",
+        "Bake for 20-25 minutes until the crust is dark golden and the bread sounds hollow when tapped."
+      ],
+      "tags": [
+        "bread",
+        "baking",
+        "classic",
+        "yeast",
+        "membrane"
+      ]
+    },
+    {
+      "id": "pain-au-chocolat",
+      "title": "Pain au Chocolat",
+      "originalName": "Pain au Chocolat",
+      "description": "Flaky pastry filled with dark chocolate batons — a beloved afternoon treat.",
+      "category": "Pastries & Breads",
+      "image": "images/pain-au-chocolat.jpg",
+      "prepTime": 60,
+      "cookTime": 18,
+      "servings": 12,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "10",
+          "unit": "grams"
+        },
+        {
+          "name": "dry yeast",
+          "quantity": "7",
+          "unit": "grams"
+        },
+        {
+          "name": "lukewarm milk",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "Cold butter for layering",
+          "quantity": "280",
+          "unit": "grams"
+        },
+        {
+          "name": "dark chocolate bars (bâtons)",
+          "quantity": "24",
+          "unit": ""
+        },
+        {
+          "name": "egg + teaspoon of milk (for spreading)",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Prepare a layered dough just like a croissant: knead, overnight in the refrigerator, 3 triangular folds with butter.",
+        "Roll the dough into a 4 mm thick rectangle. Cut 8x15 cm rectangles.",
+        "Place a chocolate bar at one end, roll, place a second bar, continue rolling. Place on a pan, seam down.",
+        "Let rise for about two hours at room temperature. Apply egg mixture.",
+        "Bake at 200 degrees for 15-18 minutes until golden and puffy. The chocolate must be melted."
+      ],
+      "tags": [
+        "pastry",
+        "chocolate",
+        "yeast",
+        "layering",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "brioche",
+      "title": "Brioche",
+      "originalName": "Brioche",
+      "description": "Rich sweet bread enriched with butter and eggs — soft and golden.",
+      "category": "Pastries & Breads",
+      "image": "images/brioche.jpg",
+      "prepTime": 30,
+      "cookTime": 30,
+      "servings": 10,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "350",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "softened butter",
+          "quantity": "175",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "7",
+          "unit": "grams"
+        },
+        {
+          "name": "dry yeast",
+          "quantity": "7",
+          "unit": "grams"
+        },
+        {
+          "name": "lukewarm milk",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Egg for spreading",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Mix flour, sugar, salt and yeast. Add eggs one by one while kneading. Knead for 10 minutes until elastic.",
+        "Add soft butter gradually (cube by cube) while kneading. Dough must be smooth and shiny.",
+        "Cover and let rise for two hours. Fold, cover and refrigerate overnight.",
+        "The next day, divide into 10 balls. Form a brioche a tet (a small ball over a large one) in greased brioche molds.",
+        "Leave for an hour. Spread an egg. Bake at 180 degrees for 25-30 minutes until golden. Cool on a wire rack."
+      ],
+      "tags": [
+        "bread",
+        "butter",
+        "yeast",
+        "breakfast",
+        "sugary"
+      ]
+    },
+    {
+      "id": "fougasse",
+      "title": "Fougasse",
+      "originalName": "Fougasse",
+      "description": "Provençal flatbread with olive oil and herbs — rustic and aromatic.",
+      "category": "Pastries & Breads",
+      "image": "images/fougasse.jpg",
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "lukewarm water",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "dry yeast",
+          "quantity": "5",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "8",
+          "unit": "grams"
+        },
+        {
+          "name": "Black olives, sliced",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "Fresh rosemary",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Crystal salt for serving",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Mix flour, water, yeast, olive oil and salt. Knead for 8 minutes. Fold in olives and rosemary.",
+        "First rise for about an hour and a half until the dough has doubled in size.",
+        "Roll out on baking paper in an oval shape (1 cm thick). Make cuts in a leaf pattern and stretch to open.",
+        "Swell for another 30 minutes. Apply olive oil and sprinkle with crystalline salt.",
+        "Bake at 220 degrees for 18-20 minutes until golden and crispy. Serve lukewarm."
+      ],
+      "tags": [
+        "bread",
+        "Provence",
+        "olives",
+        "olive oil",
+        "rosemary"
+      ]
+    },
+    {
+      "id": "gougeres",
+      "title": "Gougères",
+      "originalName": "Gougères",
+      "description": "Savory cheese puffs made with choux pastry — perfect appetizers.",
+      "category": "Pastries & Breads",
+      "image": "images/gougeres.jpg",
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 30,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "water",
+          "quantity": "125",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "55",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "75",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "grated Gruyère cheese",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "1",
+          "unit": "pinch"
+        },
+        {
+          "name": "nutmeg",
+          "quantity": "1",
+          "unit": "pinch"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 190 degrees. Bring water, butter and salt to a boil.",
+        "Remove from heat, add flour all at once. Mix vigorously until the dough separates from the sides.",
+        "Heat on low heat for a minute (to dry). Transfer to a bowl. Add eggs one by one while mixing.",
+        "Fold in 60 grams of gruyere, pepper and nutmeg.",
+        "Squeeze small balls from a syringe onto a lined pan. Pesaro Gruyere remains above.",
+        "Bake for 22-25 minutes until puffed and golden. Serve hot."
+      ],
+      "tags": [
+        "pastry",
+        "cheese",
+        "Burgundy",
+        "aperitif",
+        "Shaw dough"
+      ]
+    },
+    {
+      "id": "palmier",
+      "title": "Palmier",
+      "originalName": "Palmier",
+      "description": "Caramelized puff pastry cookies shaped like palm leaves — crispy and sweet.",
+      "category": "Pastries & Breads",
+      "image": "images/palmier.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 20,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Puff pastry is ready",
+          "quantity": "1",
+          "unit": "roll (400 grams)"
+        },
+        {
+          "name": "sugar",
+          "quantity": "100",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 200 degrees. Sprinkle sugar on the work surface.",
+        "Roll the puff pastry over the sugar into a rectangle. Sprinkle sugar on top as well.",
+        "Roll the two long sides towards the center until they meet.",
+        "Cut slices 1 cm thick. Place on a lined baking sheet with space between them.",
+        "Bake for 8 minutes, flip, bake for another 5-7 minutes until caramelized and golden on all sides."
+      ],
+      "tags": [
+        "Cookies",
+        "puff pastry",
+        "sugar",
+        "caramel",
+        "simple"
+      ]
+    },
+    {
+      "id": "galette-bretonne",
+      "title": "Galette Bretonne",
+      "originalName": "Galette Bretonne",
+      "description": "Buckwheat crepe from Brittany — savory and traditional.",
+      "category": "Pastries & Breads",
+      "image": "images/galette-bretonne.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 12,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Soft salted butter",
+          "quantity": "125",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "125",
+          "unit": "grams"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "flour",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "½",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Egg yolk + milk for spreading",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Beat butter and sugar until light cream. Add egg yolks one by one.",
+        "Sift flour and baking powder, fold into the mixture. Wrap and refrigerate for an hour.",
+        "Roll out to a thickness of 1 cm. Cut circles (diameter 6 cm). Place on a lined baking sheet.",
+        "Apply egg yolk mixture, draw lines with the tines of a fork. Cool for 15 minutes.",
+        "Bake at 180 degrees for 12-15 minutes until golden. Cool on a wire rack."
+      ],
+      "tags": [
+        "Cookies",
+        "Brittany",
+        "Salted butter",
+        "bakery",
+        "classic"
+      ]
+    },
+    {
+      "id": "macarons",
+      "title": "Macarons",
+      "originalName": "Macarons",
+      "description": "Delicate almond meringue cookies with cream filling — colorful and sophisticated.",
+      "category": "Desserts",
+      "image": "images/macarons.jpg",
+      "prepTime": 45,
+      "cookTime": 15,
+      "servings": 24,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "almond flour",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "powdered sugar",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "egg whites (aged)",
+          "quantity": "110",
+          "unit": "grams"
+        },
+        {
+          "name": "regular sugar",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "water",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "food coloring (optional)",
+          "quantity": "",
+          "unit": "as you wish"
+        },
+        {
+          "name": "dark chocolate (for ganache)",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "sweet cream (for ganache)",
+          "quantity": "150",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Sift almond flour and powdered sugar together twice. Mix with half of the egg whites and food coloring.",
+        "Make syrup: heat sugar and water to 118 degrees. Pour in a stream on the second half of the egg whites while whipping (Italian meringue).",
+        "Beat until the meringue reaches room temperature. Fold into the almond mixture in gentle movements (macronage).",
+        "Squeeze a round syringe (3 cm) onto a lined pan. Tap the pan. Dry for 30-45 minutes until a crust forms.",
+        "Bake at 150 degrees for 13-15 minutes. When the macarons are firm and have 'legs' (mouth) - they are ready.",
+        "Ganache: heat cream, pour over chopped chocolate, mix until smooth. Cool until thick.",
+        "Pair macaroons of similar size, fill ganache between them. Chill in the fridge 24 hours before serving."
+      ],
+      "tags": [
+        "patisserie",
+        "almonds",
+        "meringue",
+        "Paris",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "profiteroles",
+      "title": "Profiteroles",
+      "originalName": "Profiteroles",
+      "description": "Choux pastry filled with ice cream and drizzled with hot chocolate sauce — a show-stopping dessert.",
+      "category": "Desserts",
+      "image": "images/profiteroles.jpg",
+      "prepTime": 25,
+      "cookTime": 25,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "water",
+          "quantity": "125",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "55",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "75",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "salt",
+          "quantity": "1",
+          "unit": "pinch"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "vanilla ice cream",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "dark chocolate",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "sweet cream (for the sauce)",
+          "quantity": "200",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Bring water, butter, salt and sugar to a boil. Add flour all at once, mixing until the dough separates.",
+        "Cool for 2 minutes, add eggs one by one. The dough must be smooth and shiny.",
+        "Squeeze a syringe of balls (diameter 3 cm) on a mold. Bake at 200 degrees for 22-25 minutes until swollen and golden.",
+        "Turn off the oven, open the door a little. Leave 10 minutes to dry.",
+        "Make a sauce: heat cream, pour over chopped chocolate, mix until smooth.",
+        "Cut each shoe in half, fill with a scoop of vanilla ice cream. Arrange on plates, drizzle hot chocolate sauce on top."
+      ],
+      "tags": [
+        "Shaw dough",
+        "ice cream",
+        "chocolate",
+        "bistro",
+        "dessert"
+      ]
+    },
+    {
+      "id": "eclairs",
+      "title": "Éclair au Chocolat",
+      "originalName": "Éclair au Chocolat",
+      "description": "Choux pastry filled with cream and topped with chocolate glaze — a French patisserie staple.",
+      "category": "Desserts",
+      "image": "images/eclairs.jpg",
+      "prepTime": 30,
+      "cookTime": 30,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "water",
+          "quantity": "125",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "55",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "75",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "milk (for cream)",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "cornstarch",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "Dark chocolate (for cream and coating)",
+          "quantity": "250",
+          "unit": "grams"
+        },
+        {
+          "name": "sweet cream (for coating)",
+          "quantity": "100",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Make sho dough: boil water and butter, add flour, mix. Cool, add eggs one by one.",
+        "Squeeze a finger syringe (12 cm) on a mold. Bake at 200 degrees for 25-30 minutes. Cool completely.",
+        "Cream: heat milk. Beat egg yolks with sugar and cornflour. Pour hot milk, return to the heat, cook until thick.",
+        "Add 150 grams of chopped chocolate to the hot cream, mix until smooth. Cover with cling film and refrigerate.",
+        "Fill the eclairs with cream through 3 holes at the bottom using a nozzle.",
+        "Frosting: heat cream with 100 grams of chocolate. Dip the top of each eclair. Refrigerate until it hardens."
+      ],
+      "tags": [
+        "patisserie",
+        "Shaw dough",
+        "chocolate",
+        "cream",
+        "classic"
+      ]
+    },
+    {
+      "id": "mousse-au-chocolat",
+      "title": "Mousse au Chocolat",
+      "originalName": "Mousse au Chocolat",
+      "description": "Light and airy chocolate mousse — elegant and decadent.",
+      "category": "Desserts",
+      "image": "images/mousse-au-chocolat.jpg",
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "dark chocolate (70%)",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs (separated)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "A pinch of salt",
+          "quantity": "1",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Melt chocolate with butter in a bain-marie. Cool to room temperature.",
+        "Add egg yolks one by one to the chocolate while mixing.",
+        "Beat egg whites with salt until stiff. Add sugar gradually and continue to beat.",
+        "Fold a third of the egg whites into the chocolate (to lighten the texture). Gently fold the rest in two steps.",
+        "Divide into cups. Refrigerate for at least 4 hours. Serve with whipped cream or chocolate flakes."
+      ],
+      "tags": [
+        "dessert",
+        "chocolate",
+        "airy",
+        "No baking",
+        "minimalistic"
+      ]
+    },
+    {
+      "id": "tarte-au-citron",
+      "title": "Tarte au Citron Meringuée",
+      "originalName": "Tarte au Citron Meringuée",
+      "description": "Lemon tart with crispy pastry and tangy filling topped with meringue — bright and refreshing.",
+      "category": "Desserts",
+      "image": "images/tarte-au-citron.jpg",
+      "prepTime": 30,
+      "cookTime": 35,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Crispy dough is ready",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Lemons (juice + zest)",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "sugar (for cream)",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "Cold butter, cut into cubes",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "egg whites (meringue)",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "sugar (meringue)",
+          "quantity": "120",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Pour dough into a tart pan (24 cm). Pierce and blind bake at 180 degrees for 20 minutes.",
+        "Lemon cream: heat lemon juice, zest, sugar and eggs in a bain-marie while stirring until it thickens (80 degrees).",
+        "Remove from heat, add butter cube by cube while stirring. Filter and pour into the baked dough. Refrigerate for an hour.",
+        "Meringue: beat egg whites until stiff, add sugar gradually. Continue whisking for 5 minutes.",
+        "Cover the lemon cream with meringue using a star nozzle. Flame in the burner until golden. Serve immediately."
+      ],
+      "tags": [
+        "tart",
+        "lemon",
+        "meringue",
+        "baking",
+        "patisserie"
+      ]
+    },
+    {
+      "id": "mille-feuille",
+      "title": "Mille-Feuille",
+      "originalName": "Mille-Feuille",
+      "description": "Thousand-layer pastry with pastry cream and icing — a classic French dessert.",
+      "category": "Desserts",
+      "image": "images/mille-feuille.jpg",
+      "prepTime": 40,
+      "cookTime": 20,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "Puff pastry is ready",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "milk",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "cornstarch",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "2",
+          "unit": "spoons"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "powdered sugar (for icing)",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "Melted dark chocolate (for decoration)",
+          "quantity": "30",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Roll out puff pastry to a thickness of 3 mm. Pierce densely. Bake between 2 pans at 200 degrees for 18-20 minutes until golden and flat.",
+        "Crème pâtissier: heat milk with vanilla. Beat egg yolks, sugar and cornflour. Combine, cook until thick.",
+        "Add butter, cover tightly and refrigerate.",
+        "Cut dough into 3 equal rectangles. Apply a thick layer of cream on the first, cover with the second, cream, third layer.",
+        "Glaze: mix powdered sugar with a teaspoon of water. Apply on the top layer. Draw lines in chocolate, draw with a knife.",
+        "Refrigerate for an hour. Cut with a sharp serrated knife. Serve immediately."
+      ],
+      "tags": [
+        "patisserie",
+        "puff pastry",
+        "cream",
+        "vanilla",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "souffle-au-chocolat",
+      "title": "Soufflé au Chocolat",
+      "originalName": "Soufflé au Chocolat",
+      "description": "Chocolate soufflé that rises dramatically — impressive and decadent.",
+      "category": "Desserts",
+      "image": "images/souffle-au-chocolat.jpg",
+      "prepTime": 20,
+      "cookTime": 14,
+      "servings": 4,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "dark chocolate (70%)",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "egg yolks",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "Egg whites",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "butter and sugar (for ramekins)",
+          "quantity": "",
+          "unit": "for lubrication"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 200 degrees. We put ramekins in butter and covered with sugar (important for rising!).",
+        "Melt chocolate with butter in a bain-marie. Cool a little. Add egg yolks one by one.",
+        "Beat egg whites until soft, add sugar gradually, continue until medium stiff.",
+        "Fold a third of the egg whites into the chocolate. Gently fold in the rest—don't overmix!",
+        "Fill ramekins to the brim. Slide with a knife. Run a finger around the rim (to form a 'hat').",
+        "Bake for 12-14 minutes. The souffle should rise 3-4 cm above the ramekin, with a quivering center. Serve within 30 seconds!"
+      ],
+      "tags": [
+        "dessert",
+        "chocolate",
+        "soufflé",
+        "baking",
+        "impressive"
+      ]
+    },
+    {
+      "id": "clafoutis",
+      "title": "Clafoutis aux Cerises",
+      "originalName": "Clafoutis aux Cerises",
+      "description": "Cherry custard cake from Limousin — rustic and homey.",
+      "category": "Desserts",
+      "image": "images/clafoutis.jpg",
+      "prepTime": 10,
+      "cookTime": 35,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Fresh cherries (with seed - traditional)",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "sugar",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "60",
+          "unit": "grams"
+        },
+        {
+          "name": "milk",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "heavy cream",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "butter (for pan)",
+          "quantity": "15",
+          "unit": "grams"
+        },
+        {
+          "name": "powdered sugar (for serving)",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Heat the oven to 180 degrees. We put a baking pan in butter.",
+        "Spread the cherries in one layer in the pan.",
+        "Blender: grind eggs, sugar, flour, milk, cream and vanilla until a smooth batter.",
+        "Pour the batter over the cherries.",
+        "Bake for 30-35 minutes until puffed and golden, with the center still slightly quivering.",
+        "Sprinkle powdered sugar and serve lukewarm. The calphoti will fall a little - that's natural."
+      ],
+      "tags": [
+        "dessert",
+        "cherries",
+        "Limousine",
+        "rustic",
+        "easy"
+      ]
+    },
+    {
+      "id": "ile-flottante",
+      "title": "Île Flottante",
+      "originalName": "Île Flottante",
+      "description": "Floating island - soft meringue floating on vanilla custard — light and elegant.",
+      "category": "Desserts",
+      "image": "images/ile-flottante.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Egg whites",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar (meringue)",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "milk",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": "4",
+          "unit": ""
+        },
+        {
+          "name": "sugar (for crème anglaise)",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "vanilla extract",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "sugar (for caramel)",
+          "quantity": "80",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Beat egg whites until stiff, add 100 grams of sugar gradually. Continue whisking for 3 minutes.",
+        "Heat milk to a gentle boil. Form large meringue domes and soak them in milk for 2 minutes on each side. Remove to a plate.",
+        "Crème anglaise: beat egg yolks with 80 grams of sugar. Pour the hot milk gradually while stirring.",
+        "Return to the pot on low heat, mix with a wooden spoon until the cream thickens (82 degrees). Do not boil! Sanno",
+        "Add vanilla. Cool and refrigerate. Pour into deep plates.",
+        "Place a meringue dome on each plate. Make caramel from 80 grams of sugar and pull thin strings on top. Serve immediately."
+      ],
+      "tags": [
+        "dessert",
+        "meringue",
+        "Crème anglaise",
+        "caramel",
+        "elegant"
+      ]
+    },
+    {
+      "id": "crepes-suzette",
+      "title": "Crêpes Suzette",
+      "originalName": "Crêpes Suzette",
+      "description": "Thin pancakes in orange butter sauce flambéed with Grand Marnier — theatrical and delicious.",
+      "category": "Desserts",
+      "image": "images/crepes-suzette.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "125",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "milk",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "melted butter (for batter)",
+          "quantity": "25",
+          "unit": "grams"
+        },
+        {
+          "name": "butter (for sauce)",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "60",
+          "unit": "grams"
+        },
+        {
+          "name": "Freshly squeezed orange juice",
+          "quantity": "150",
+          "unit": "ml"
+        },
+        {
+          "name": "Orange zest",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Grand Marnier (or orange liqueur)",
+          "quantity": "3",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "In the batter: mix flour, eggs, milk and melted butter until smooth. Bitter 30 minutes.",
+        "Bake thin crepes in a greased pan (about 8 crepes). Fold each into a quarter.",
+        "Sauce: melt butter in a pot, add sugar and caramelize until amber. Add orange juice and zest.",
+        "Place the folded crepes in the sauce. Heat for 2 minutes, pour sauce over them.",
+        "Add Grand Marnier. Tilt the pan to create a flame (or light it with a match). Serve immediately when the flames die down."
+      ],
+      "tags": [
+        "crepe",
+        "Oranges",
+        "flambé",
+        "Riviera",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "paris-brest",
+      "title": "Paris-Brest",
+      "originalName": "Paris-Brest",
+      "description": "Choux pastry ring filled with praline cream — named after the Paris-Brest bicycle race.",
+      "category": "Desserts",
+      "image": "images/paris-brest.jpg",
+      "prepTime": 40,
+      "cookTime": 30,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "water",
+          "quantity": "125",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "55",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "75",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "sliced almonds",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "soft butter (for cream)",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "Creme pâtissier is ready",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "Praline spread (hazelnuts)",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "powdered sugar",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Make sho dough: boil water and butter, add flour, mix. Cool, add eggs one by one.",
+        "Squeeze a large ring (diameter 24 cm) on a lined baking sheet. Sprinkle sliced ​​almonds.",
+        "Bake at 200 degrees for 25-30 minutes until puffed and golden. Cool completely.",
+        "Praline mousseline cream: beat soft butter until fluffy. Gradually fold in pastry cream and praline spread.",
+        "Cut the ring across. Fill with cream using a star nozzle.",
+        "Cover the top, sprinkle with powdered sugar. Refrigerate 30 minutes before serving."
+      ],
+      "tags": [
+        "patisserie",
+        "Shaw dough",
+        "Praline",
+        "baking",
+        "luxurious"
+      ]
+    },
+    {
+      "id": "bechamel",
+      "title": "Sauce Béchamel",
+      "originalName": "Sauce Béchamel",
+      "description": "Classic white sauce with milk and butter — one of the five mother sauces.",
+      "category": "Sauces & Condiments",
+      "image": "images/bechamel.jpg",
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "butter",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "milk",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "grated nutmeg",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and white pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter in a saucepan over medium heat. Add flour and mix for 2 minutes (white roux). Don't tan.",
+        "Add cold milk gradually, about a third at a time, whisking constantly to prevent lumps.",
+        "Keep stirring until the sauce thickens and coats the back of the spoon (about 5 minutes).",
+        "Season with nutmeg, salt and white pepper. Filter if there are lumps.",
+        "Use immediately, or cover tightly with cling film to prevent a crust."
+      ],
+      "tags": [
+        "mother sauce",
+        "white",
+        "basic",
+        "butter",
+        "flour"
+      ]
+    },
+    {
+      "id": "veloute",
+      "title": "Sauce Velouté",
+      "originalName": "Sauce Velouté",
+      "description": "Smooth sauce made with white stock — a versatile mother sauce.",
+      "category": "Sauces & Condiments",
+      "image": "images/veloute.jpg",
+      "prepTime": 5,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "butter",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "40",
+          "unit": "grams"
+        },
+        {
+          "name": "Light chicken (or fish/vegetable) stock",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "salt and white pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter in a pot. Add flour and mix for 3 minutes until the mixture turns blond (sand color).",
+        "Add light stock gradually while whisking constantly.",
+        "Bring to a gentle boil. Cook for 20 minutes on low heat, stirring occasionally, until the sauce coats a spoon.",
+        "Drain, season with salt and white pepper. Cream can be added to create a supreme sauce."
+      ],
+      "tags": [
+        "mother sauce",
+        "axis",
+        "basic",
+        "velvety",
+        "delicate"
+      ]
+    },
+    {
+      "id": "espagnole",
+      "title": "Sauce Espagnole",
+      "originalName": "Sauce Espagnole",
+      "description": "Rich brown sauce — a foundational mother sauce.",
+      "category": "Sauces & Condiments",
+      "image": "images/espagnole.jpg",
+      "prepTime": 15,
+      "cookTime": 120,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "butter",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "flour",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "Rich beef stock",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "name": "Onion, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Carrot, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Celery, chopped",
+          "quantity": "1",
+          "unit": "stalk"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Boca Grani",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Sauté vegetables (from herbs) in butter until hot and brown, about 8 minutes.",
+        "Add flour and mix for 5 minutes until a dark roux (chestnut brown) is formed. Caution - do not burn.",
+        "Add tomato paste, mix for a minute. Add beef stock gradually while whisking.",
+        "Add Boca Grani. Bring to a boil and cook over very low heat for two hours, whisking occasionally.",
+        "Filter through a fine sieve. Season with salt and pepper. For demi-glace - reduce by half."
+      ],
+      "tags": [
+        "mother sauce",
+        "heat",
+        "beef",
+        "basic",
+        "demi-glass"
+      ]
+    },
+    {
+      "id": "sauce-hollandaise",
+      "title": "Sauce Hollandaise",
+      "originalName": "Sauce Hollandaise",
+      "description": "Creamy butter and egg yolk sauce — essential for eggs Benedict.",
+      "category": "Sauces & Condiments",
+      "image": "images/sauce-hollandaise.jpg",
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Egg yolks",
+          "quantity": "3",
+          "unit": ""
+        },
+        {
+          "name": "warm clarified butter",
+          "quantity": "175",
+          "unit": "grams"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "cold water",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "¼",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Cayenne pepper",
+          "quantity": "1",
+          "unit": "pinch"
+        }
+      ],
+      "instructions": [
+        "Beat egg yolks with a teaspoon of water in a bain-marie bowl (over boiling water, not touching the water).",
+        "Beat non-stop for 3-4 minutes until the egg yolks thicken and double in volume.",
+        "Remove from heat. Add clarified butter in a very thin stream while whisking constantly.",
+        "When all the butter has been incorporated, add lemon juice, salt and cayenne pepper.",
+        "Serve immediately. Do not reheat - the sauce will fall apart."
+      ],
+      "tags": [
+        "mother sauce",
+        "butter",
+        "egg yolks",
+        "emulsion",
+        "Eggs Benedict"
+      ]
+    },
+    {
+      "id": "sauce-tomate",
+      "title": "Sauce Tomate",
+      "originalName": "Sauce Tomate",
+      "description": "Classic French tomato sauce — a fundamental mother sauce.",
+      "category": "Sauces & Condiments",
+      "image": "images/sauce-tomate.jpg",
+      "prepTime": 10,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Ripe tomatoes (or a can of crushed tomatoes)",
+          "quantity": "800",
+          "unit": "grams"
+        },
+        {
+          "name": "Onion, chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Carrot, finely chopped",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves, crushed",
+          "quantity": "2",
+          "unit": ""
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "chicken stock",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "Boca Grani (thyme, laurel)",
+          "quantity": "1",
+          "unit": ""
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter, fry onion and carrot for 5 minutes on medium heat. Add garlic and tomato paste, mix.",
+        "Add tomatoes, stock, sugar and boca grani. Bring to a boil.",
+        "Reduce to a low heat, cook for 40 minutes uncovered until the sauce thickens.",
+        "Remove Boca Garni. Grind smooth or leave a rustic texture.",
+        "Season with salt and pepper. Suitable for pasta, meat, fish or as a base for other sauces."
+      ],
+      "tags": [
+        "mother sauce",
+        "Tomatoes",
+        "basic",
+        "spices",
+        "Multipurpose"
+      ]
+    }
+  ]
+}

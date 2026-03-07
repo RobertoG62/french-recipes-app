@@ -4,12 +4,20 @@
 
 const UI = (() => {
     const CATEGORY_ICONS = {
+        // Hebrew
         'הכל': 'fa-utensils',
         'מרקים': 'fa-bowl-food',
         'מנות עיקריות': 'fa-plate-wheat',
         'מאפים ולחמים': 'fa-bread-slice',
         'קינוחים': 'fa-cake-candles',
         'רטבים ותוספות': 'fa-jar',
+        // English
+        'All': 'fa-utensils',
+        'Soups': 'fa-bowl-food',
+        'Main Courses': 'fa-plate-wheat',
+        'Pastries & Breads': 'fa-bread-slice',
+        'Desserts': 'fa-cake-candles',
+        'Sauces & Condiments': 'fa-jar',
     };
 
     function buildWhatsAppUrl(recipe) {
@@ -17,15 +25,22 @@ const UI = (() => {
             .map(ing => `▢ ${ing.quantity} ${ing.unit} ${ing.name}`)
             .join('\n');
         const recipeUrl = window.location.href;
-        const message = `*רשימת קניות עבור: ${recipe.title}*\n\n${ingredientLines}\n\nלמתכון המלא: ${recipeUrl}`;
+        const listLabel = i18n.getLanguage() === 'he' ? 'רשימת קניות עבור:' : 'Shopping list for:';
+        const fullRecipeLabel = i18n.getLanguage() === 'he' ? 'למתכון המלא:' : 'Full recipe:';
+        const message = `*${listLabel} ${recipe.title}*\n\n${ingredientLines}\n\n${fullRecipeLabel} ${recipeUrl}`;
         return `https://wa.me/?text=${encodeURIComponent(message)}`;
     }
 
     function getDifficultyBadge(difficulty) {
         const map = {
+            // Hebrew
             'קל': 'badge-easy',
             'בינוני': 'badge-medium',
             'מאתגר': 'badge-hard',
+            // English
+            'Easy': 'badge-easy',
+            'Medium': 'badge-medium',
+            'Hard': 'badge-hard',
         };
         return map[difficulty] || 'badge-medium';
     }
@@ -78,8 +93,8 @@ const UI = (() => {
                     <p class="text-fr-text-secondary text-sm line-clamp-2 mb-3">${recipe.description}</p>
                     <div class="flex items-center justify-between text-xs text-fr-text-secondary">
                         <div class="flex items-center gap-3">
-                            <span><i class="far fa-clock ml-1"></i>${recipe.prepTime + recipe.cookTime} דק'</span>
-                            <span><i class="fas fa-users ml-1"></i>${recipe.servings} מנות</span>
+                            <span><i class="far fa-clock ${i18n.getLanguage() === 'he' ? 'ml-1' : 'mr-1'}"></i>${recipe.prepTime + recipe.cookTime} ${i18n.getLanguage() === 'he' ? "דק'" : 'min'}</span>
+                            <span><i class="fas fa-users ${i18n.getLanguage() === 'he' ? 'ml-1' : 'mr-1'}"></i>${recipe.servings} ${i18n.t('detail.servings')}</span>
                         </div>
                         <span class="px-2 py-0.5 rounded-full text-xs font-medium ${getDifficultyBadge(recipe.difficulty)}">
                             ${recipe.difficulty}
@@ -102,7 +117,7 @@ const UI = (() => {
             el.classList.add('hidden');
         } else {
             el.classList.remove('hidden');
-            el.textContent = `${count} מתכונים מתוך ${total}`;
+            el.textContent = i18n.t('search.resultsCount', { count });
         }
     }
 
@@ -128,30 +143,30 @@ const UI = (() => {
                     <div class="glass rounded-xl p-4 flex justify-center gap-0 mb-8">
                         <div class="meta-item">
                             <i class="far fa-clock text-fr-primary"></i>
-                            <span class="font-bold text-fr-charcoal">${recipe.prepTime} דק'</span>
-                            <span class="text-xs text-fr-text-secondary">הכנה</span>
+                            <span class="font-bold text-fr-charcoal">${recipe.prepTime} ${i18n.getLanguage() === 'he' ? "דק'" : 'min'}</span>
+                            <span class="text-xs text-fr-text-secondary">${i18n.t('detail.prepTime')}</span>
                         </div>
                         <div class="meta-item">
                             <i class="fas fa-fire text-fr-primary"></i>
-                            <span class="font-bold text-fr-charcoal">${recipe.cookTime} דק'</span>
-                            <span class="text-xs text-fr-text-secondary">בישול</span>
+                            <span class="font-bold text-fr-charcoal">${recipe.cookTime} ${i18n.getLanguage() === 'he' ? "דק'" : 'min'}</span>
+                            <span class="text-xs text-fr-text-secondary">${i18n.t('detail.cookTime')}</span>
                         </div>
                         <div class="meta-item">
                             <i class="fas fa-users text-fr-primary"></i>
                             <span class="font-bold text-fr-charcoal">${recipe.servings}</span>
-                            <span class="text-xs text-fr-text-secondary">מנות</span>
+                            <span class="text-xs text-fr-text-secondary">${i18n.t('detail.servings')}</span>
                         </div>
                         <div class="meta-item">
                             <i class="fas fa-gauge text-fr-primary"></i>
                             <span class="font-bold text-fr-charcoal">${recipe.difficulty}</span>
-                            <span class="text-xs text-fr-text-secondary">רמת קושי</span>
+                            <span class="text-xs text-fr-text-secondary">${i18n.t('detail.difficulty')}</span>
                         </div>
                     </div>
 
                     <div class="glass primary-border-right rounded-xl p-6 mb-8">
                         <h2 class="font-bold text-xl mb-4 text-fr-charcoal flex items-center gap-2">
                             <i class="fas fa-list text-fr-primary"></i>
-                            מצרכים
+                            ${i18n.t('detail.ingredients')}
                             <span class="text-sm font-normal text-fr-text-secondary">(${recipe.ingredients.length})</span>
                         </h2>
                         <div>
@@ -165,14 +180,14 @@ const UI = (() => {
                     </div>
 
                     <a href="${buildWhatsAppUrl(recipe)}" target="_blank" rel="noopener noreferrer" class="whatsapp-share-btn">
-                        <i class="fab fa-whatsapp"></i>
-                        שלח רשימת מצרכים ל-WhatsApp
+                        <i class="fab fa-whatsapp ${i18n.getLanguage() === 'he' ? '' : 'mr-2'}"></i>
+                        ${i18n.t('detail.whatsappShare')}
                     </a>
 
                     <div class="mb-8">
                         <h2 class="font-bold text-xl mb-6 text-fr-charcoal flex items-center gap-2">
                             <i class="fas fa-list-ol text-fr-primary"></i>
-                            אופן ההכנה
+                            ${i18n.t('detail.instructions')}
                         </h2>
                         <div class="space-y-4">
                             ${recipe.instructions.map((step, i) => `
