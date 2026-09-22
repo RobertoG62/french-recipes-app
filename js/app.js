@@ -70,7 +70,7 @@
         const heroTitle = document.querySelector('#hero h1');
         if (heroTitle) {
             heroTitle.innerHTML = `
-                ${i18n.t('hero.title')} <span class="text-fr-primary">${i18n.t('hero.titleHighlight')}</span>
+                ${i18n.t('hero.title')} <span class="text-fr-primary-light">${i18n.t('hero.titleHighlight')}</span>
             `;
         }
 
